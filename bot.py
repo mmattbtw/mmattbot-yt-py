@@ -7,7 +7,7 @@ load_dotenv()
 from chatto import YouTubeBot
 from chatto.events import MessageCreatedEvent
 
-scam_links = ["dank3", "dank4", "dank5"]
+scam_links = ["vOM .rEd"]
 
 bot = YouTubeBot(
     # Your project's API key.
